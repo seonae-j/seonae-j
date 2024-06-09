@@ -7,4 +7,4 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonae-j)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonae-j&hide=contribs,prs&show_icons=true&theme=graywhite)
