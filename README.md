@@ -15,4 +15,4 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=firstsun)](https://solved.ac/firstsun/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=firstsun)](https://solved.ac/firstsun/)
