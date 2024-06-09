@@ -2,7 +2,7 @@
 
 <h3 align="left">✨ Skills ✨</h3>
 <div align="left">
- <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
 <br>
