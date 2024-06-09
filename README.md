@@ -15,4 +15,4 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/firstsun/](https://www.acmicpc.net/user/firstsun))
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])
