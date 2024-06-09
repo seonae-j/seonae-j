@@ -10,9 +10,16 @@
  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-
 </div>
 
 <br>
 
+<h3 align="left">🟠 Blog </h3>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
+
+<br>
+
+<h3 align="left">🔵 Boj </h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])
+
+<br>
