@@ -17,7 +17,7 @@
 <h3 align="left">🟠 Blog </h3>
 
 <div align="left">
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)]
 </div>
 
 
@@ -26,7 +26,7 @@
 <h3 align="left">🔵 Boj </h3>
 
 <div align="left">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])]
 </div>
 
 
