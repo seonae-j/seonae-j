@@ -17,7 +17,7 @@
 <h3 align="left">🟠 Blog </h3>
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://https://sundery.tistory.com/)
 
 
 
