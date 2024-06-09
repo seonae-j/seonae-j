@@ -15,4 +15,4 @@
 
 <br>
 
-[![Solved.ac/profile/firstsun](http://azassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac/firstsun](http://azassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
