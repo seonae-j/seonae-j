@@ -16,14 +16,14 @@
 <br>
 
 
-<h3 align="left">🟠 Blog </h3>
+<h3 align="left">✨ Blog </h3>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=seonae-j&postId={insert_postId}&theme=tistory)](https://sundery.tistory.com/)
 
 <br>
 
 
-<h3 align="left">🔵 Boj </h3>
+<h3 align="left">⌨️ Boj </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])
 
