@@ -25,7 +25,7 @@
 
 <h3 align="left">🔵 Boj </h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)](https://solved.ac/profile/firstsun)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=firstsun)]([https://solved.ac/profile/firstsun])
 
 
 
